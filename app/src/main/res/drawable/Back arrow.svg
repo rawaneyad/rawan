@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 17" width="21" height="17">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-15 -29L360 -29L360 638L-15 638Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #5c5c5c;stroke-width: 2 } 
+	</style>
+	<g id="E8-1" clip-path="url(#cp1)">
+		<g id="Navigation Bars - Title + Back + 2 Icons">
+			<path id="Back arrow" class="shp0" d="M2.11 8.74C2.11 8.66 2.13 8.59 2.17 8.53L8.64 2.63C8.7 2.59 8.76 2.57 8.84 2.57C8.92 2.57 8.99 2.59 9.03 2.65C9.13 2.74 9.13 2.89 9.03 2.99L3.01 8.46L18.12 8.46C18.27 8.46 18.39 8.57 18.39 8.7C18.39 8.83 18.27 8.94 18.12 8.94L2.89 8.94L9.03 14.51C9.13 14.6 9.13 14.75 9.03 14.85C8.92 14.94 8.76 14.94 8.66 14.85L2.17 8.94C2.11 8.89 2.09 8.81 2.11 8.74Z" />
+		</g>
+	</g>
+</svg>

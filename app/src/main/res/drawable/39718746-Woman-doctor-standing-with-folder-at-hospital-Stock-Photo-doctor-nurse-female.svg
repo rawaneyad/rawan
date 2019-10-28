@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 74" width="75" height="74">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-25 -157L350 -157L350 510L-25 510Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { stroke: #007aff;paint-order:stroke fill markers;stroke-width: 2 } 
+	</style>
+	<g id="E8-1" clip-path="url(#cp1)">
+		<path id="39718746-Woman-doctor-standing-with-folder-at-hospital-Stock-Photo-doctor-nurse-female" class="shp0" d="M37 1C56.88 1 73 17.12 73 37C73 56.88 56.88 73 37 73C17.12 73 1 56.88 1 37C1 17.12 17.12 1 37 1Z" />
+	</g>
+</svg>
